@@ -23,7 +23,7 @@ public class PlaceholderPotion extends CustomPotion {
     public static final String[] DESCRIPTIONS = potionStrings.DESCRIPTIONS;
 
     public PlaceholderPotion() {
-        // The bottle shape and inside is determined by potion size and color. The actual colors are the main TheDreamer.java
+        // The bottle shape and inside is determined by potion size and color. The actual colors are the main Dreamer.java
         super(NAME, POTION_ID, PotionRarity.COMMON, PotionSize.M, PotionColor.SMOKE);
         
         // Potency is the damage/magic number equivalent of potions.

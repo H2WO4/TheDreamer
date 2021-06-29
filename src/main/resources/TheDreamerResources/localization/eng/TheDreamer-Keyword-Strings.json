@@ -1,20 +1,44 @@
 [
   {
     "NAMES": [
-      "keyword",
-      "keywords"
+      "fantasy"
     ],
-    "DESCRIPTION": "Whenever you play a card, gain 1 dexterity this turn only."
+    "DESCRIPTION": "First choice in a card choice."
   },
   {
-    "PROPER_NAME": "Multiword Keyword",
     "NAMES": [
-      "Multiword Keyword",
-      "multiword_keyword",
-      "multiword_keywords",
-      "multikey",
-      "multikeyword"
+      "reality"
     ],
-    "DESCRIPTION": "Make sure the first element in the NAMES is the same as your PROPER_NAME. The rest is to match keywords like the single word keyword."
+    "DESCRIPTION": "Second choice in a card choice."
+  },
+  {
+    "NAMES": [
+      "perception"
+    ],
+    "DESCRIPTION": "Third choice in a card choice."
+  },
+  {
+    "NAMES": [
+      "lucidity"
+    ],
+    "DESCRIPTION": "For your next X choices, activate all possibilities."
+  },
+  {
+    "NAMES": [
+      "recall"
+    ],
+    "DESCRIPTION": "Look at the X bottom cards of your discard pile. You may move any of them to your draw pile."
+  },
+  {
+    "NAMES": [
+      "awakening"
+    ],
+    "DESCRIPTION": "Activated on #yRecall."
+  },
+  {
+    "NAMES": [
+      "fleeting"
+    ],
+    "DESCRIPTION": "Exhaust on play, discard and turn end."
   }
 ]

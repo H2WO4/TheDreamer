@@ -1,53 +1,58 @@
 {
-  "theDefault:DefaultCommonAttack": {
-    "NAME": "Strike",
-    "DESCRIPTION": "Deal !D! damage. NL [#0000ff]This[] [#ff0000]Is[] [#ffff00]How[] [#88888]color[] [#ff00ff]works.[]"
-  },
-  "theDefault:DefaultCommonSkill": {
+  "TheDreamer:Defend": {
     "NAME": "Defend",
-    "DESCRIPTION": "Gain !B! Block. NL thedefault:Multiword_Keyword."
+    "DESCRIPTION": "Gain !B! Block."
   },
-  "theDefault:DefaultCommonPower": {
-    "NAME": "Hold Place",
-    "DESCRIPTION": "Gain !M! thedefault:Keyword.",
-    "UPGRADE_DESCRIPTION": "Gain !M! thedefault:Keywords."
+  "TheDreamer:Dream": {
+    "NAME": "Dream",
+    "DESCRIPTION": "thedreamer:Fleeting. NL thedreamer:Fantasy: Deal !D! damage to ALL enemies. NL thedreamer:Reality: Gain !B! Block."
   },
-  "theDefault:DefaultUncommonAttack": {
-    "NAME": "Big slap",
+  "TheDreamer:DreamFantasy": {
+    "NAME": "Fantasy",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "TheDreamer:DreamReality": {
+    "NAME": "Reality",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "TheDreamer:Strike": {
+    "NAME": "Strike",
     "DESCRIPTION": "Deal !D! damage."
   },
-  "theDefault:DefaultUncommonSkill": {
-    "NAME": "A Better Defend",
-    "DESCRIPTION": "Gain !B! Plated Armor. Affected by Dexterity."
+  "TheDreamer:Mirage": {
+    "NAME": "Mirage",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block per enemy."
   },
-  "theDefault:DefaultUncommonPower": {
-    "NAME": "Weirdness",
-    "DESCRIPTION": "Gain X thedefault:Keywords.",
-    "UPGRADE_DESCRIPTION": "Gain X +1 thedefault:Keywords."
+  "TheDreamer:Hallucination": {
+    "NAME": "Hallucination",
+    "DESCRIPTION": "Ethereal. NL Deal !D! damage."
   },
-  "theDefault:DefaultRareAttack": {
-    "NAME": "TOUCH",
-    "DESCRIPTION": "Deal !D! damage."
+  "TheDreamer:Clairvoyance": {
+    "NAME": "Clairvoyance",
+    "DESCRIPTION": "Gain 1 thedreamer:Lucidity."
   },
-  "theDefault:DefaultRareSkill": {
-    "NAME": "For Each Loop x2",
-    "DESCRIPTION": "Apply !M! Vulnerable to all enemies, 2 times.",
-    "UPGRADE_DESCRIPTION": "Apply !M! Vulnerable to all enemies, 3 times."
+  "TheDreamer:WakeUpCall": {
+    "NAME": "Wake-Up Call",
+    "DESCRIPTION": "Gain !B! Block. NL Recall !M!. NL Does not activate thedreamer:Awakening effects."
   },
-  "theDefault:DefaultRarePower": {
-    "NAME": "In-Progress Form",
-    "DESCRIPTION": "At the start of your turn, play a TOUCH."
+  "TheDreamer:Thought": {
+    "NAME": "Thought",
+    "DESCRIPTION": "Deal !D! damage. NL If this card is shuffled, exhaust it."
   },
-  "theDefault:DefaultAttackWithVariable": {
-    "NAME": "Special Strike",
-    "DESCRIPTION": "Deal !D! damage [E] times. NL (Deal !theDefault:ENERGY_DAMAGE! damage total.)"
+  "TheDreamer:FlowOfConsciousness": {
+    "NAME": "Flow Of Consciousness",
+    "DESCRIPTION": "Draw !M! cards. NL thedreamer:Awakening: Draw !M! cards."
   },
-  "theDefault:DefaultSecondMagicNumberSkill": {
-    "NAME": "Cool 2 Number Card",
-    "DESCRIPTION": "Apply !M! Vulnerable and !theDefault:SecondMagic! poison to an enemy."
+  "TheDreamer:Surrealism": {
+    "NAME": "Surrealism",
+    "DESCRIPTION": "thedreamer:Fleeting. NL Gain !M! thedreamer:Lucidity."
   },
-  "theDefault:OrbSkill": {
-    "NAME": "Get Orb",
-    "DESCRIPTION": "Channel 1 Default Orb."
+  "TheDreamer:Image": {
+    "NAME": "Image",
+    "DESCRIPTION": "Deal !D! damage. NL thedreamer:Awakening: Put this card into your hand."
+  },
+  "TheDreamer:Memory": {
+    "NAME": "Memory",
+    "DESCRIPTION": "Recall !M!."
   }
 }
