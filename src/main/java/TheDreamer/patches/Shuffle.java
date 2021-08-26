@@ -16,7 +16,9 @@ import com.megacrit.cardcrawl.dungeons.AbstractDungeon;
 public class Shuffle {
     public static void Prefix(AbstractGameAction __instance) {
         for (AbstractCard c: AbstractDungeon.player.discardPile.group) {
-            AbstractDungeon.actionManager.addToTop(new ExhaustSpecificCardAction(c, AbstractDungeon.player.drawPile));
+            if (c.cardID.equals(Thought.ID)) {
+                AbstractDungeon.actionManager.addToTop(new ExhaustSpecificCardAction(c, AbstractDungeon.player.drawPile));
+            }
         }
     }
 }

@@ -54,5 +54,9 @@
   "TheDreamer:Memory": {
     "NAME": "Memory",
     "DESCRIPTION": "Recall !M!."
+  },
+  "TheDreamer:DeepSleep": {
+    "NAME": "Deep Sleep",
+    "DESCRIPTION": "Adds !M! *Dreams to your hand."
   }
 }

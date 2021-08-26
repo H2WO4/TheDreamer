@@ -3,6 +3,7 @@ package TheDreamer.cards;
 import TheDreamer.TheDreamer;
 import TheDreamer.actions.RecallAction;
 import TheDreamer.characters.Dreamer;
+import basemod.abstracts.CustomCard;
 import com.megacrit.cardcrawl.actions.common.DrawCardAction;
 import com.megacrit.cardcrawl.cards.AbstractCard;
 import com.megacrit.cardcrawl.characters.AbstractPlayer;
@@ -12,7 +13,7 @@ import com.megacrit.cardcrawl.monsters.AbstractMonster;
 
 import static TheDreamer.TheDreamer.makeCardPath;
 
-public class Memory extends AwakeningCard {
+public class Memory extends CustomCard {
 
     public static final String ID = TheDreamer.makeID(Memory.class.getSimpleName());
     private static final CardStrings cardStrings = CardCrawlGame.languagePack.getCardStrings(ID);
@@ -38,11 +39,6 @@ public class Memory extends AwakeningCard {
     @Override
     public void use(AbstractPlayer p, AbstractMonster m) {
         this.addToBot(new RecallAction(this.magicNumber));
-    }
-
-    @Override
-    public void onRecall() {
-        this.addToBot(new DrawCardAction(this.magicNumber));
     }
 
     @Override
