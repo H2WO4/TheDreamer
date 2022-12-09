@@ -1,0 +1,37 @@
+{
+  "thedreamer:AbsurdityPower": {
+    "NAME": "Absurdity",
+    "DESCRIPTIONS": [
+      "Whenever you draw an #yAbstract card, gain #b",
+      " #yBlock."
+    ]
+  },
+  "thedreamer:LucidityPower": {
+    "NAME": "Lucidity",
+    "DESCRIPTIONS": [
+      "For your next #b",
+      " choices, activate all possibilities.",
+      "For your next choice, activate all possibilities."
+    ]
+  },
+  "thedreamer:NarcolepsyPower": {
+    "NAME": "Narcolepsy",
+    "DESCRIPTIONS": [
+      "At the beginning of your turn, add #b",
+      " #yDream.",
+      " #yDreams."
+    ]
+  },
+  "thedreamer:WonderlandPower": {
+    "NAME": "Wonderland",
+    "DESCRIPTIONS": [
+      "If during a choice, #yFantasy is available, choose it twice."
+    ]
+  },
+  "thedreamer:ThroughTheMirrorPower": {
+    "NAME": "Through The Mirror",
+    "DESCRIPTIONS": [
+      "If during a choice, #yReality is available, choose it twice."
+    ]
+  }
+}

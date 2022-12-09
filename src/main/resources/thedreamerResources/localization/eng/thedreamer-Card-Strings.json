@@ -1,0 +1,120 @@
+{
+  "thedreamer:Absurdity": {
+    "NAME": "Absurdity",
+    "DESCRIPTION": "Whenever you draw an thedreamer:Abstract card, gain !M! Block."
+  },
+  "thedreamer:Chimera": {
+    "NAME": "Chimera",
+    "DESCRIPTION": "thedreamer:Fantasy: Deal !D! damage twice. NL thedreamer:Reality: Deal !D! damage and draw !M!."
+  },
+  "thedreamer:ChimeraFantasy": {
+    "NAME": "Fantasy",
+    "DESCRIPTION": "Deal !D! damage twice."
+  },
+  "thedreamer:ChimeraReality": {
+    "NAME": "Reality",
+    "DESCRIPTION": "Deal !D! damage. NL Draw !M!."
+  },
+  "thedreamer:Clairvoyance": {
+    "NAME": "Clairvoyance",
+    "DESCRIPTION": "Gain 1 thedreamer:Lucidity."
+  },
+  "thedreamer:DeadWeight": {
+    "NAME": "Dead Weight",
+    "DESCRIPTION": "Exhaust the bottom !M! cards of your discard pile."
+  },
+  "thedreamer:DeepSleep": {
+    "NAME": "Deep Sleep",
+    "DESCRIPTION": "Adds !M! *Dreams to your hand."
+  },
+  "thedreamer:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "thedreamer:DownToEarth": {
+    "NAME": "Down to Earth",
+    "DESCRIPTION": "thedreamer:Fantasy: Gain !M! Strength. NL thedreamer:Reality: Gain !M! Dexterity."
+  },
+  "thedreamer:DownToEarthFantasy": {
+    "NAME": "Fantasy",
+    "DESCRIPTION": "Gain !M! Strength."
+  },
+  "thedreamer:DownToEarthReality": {
+    "NAME": "Fantasy",
+    "DESCRIPTION": "Gain !M! Dexterity."
+  },
+  "thedreamer:Dream": {
+    "NAME": "Dream",
+    "DESCRIPTION": "thedreamer:Fantasy: Deal !D! damage to ALL enemies. NL thedreamer:Reality: Gain !B! Block. NL thedreamer:Fleeting."
+  },
+  "thedreamer:DreamFantasy": {
+    "NAME": "Fantasy",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "thedreamer:DreamReality": {
+    "NAME": "Reality",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "thedreamer:FlowOfConsciousness": {
+    "NAME": "Flow Of Consciousness",
+    "DESCRIPTION": "Draw !M! cards. NL thedreamer:Awakening: Draw !M! cards."
+  },
+  "thedreamer:Hallucination": {
+    "NAME": "Hallucination",
+    "DESCRIPTION": "Ethereal. NL Deal !D! damage."
+  },
+  "thedreamer:Image": {
+    "NAME": "Image",
+    "DESCRIPTION": "Deal !D! damage. NL thedreamer:Awakening: Put this card into your hand."
+  },
+  "thedreamer:Memory": {
+    "NAME": "Memory",
+    "DESCRIPTION": "thedreamer:Recall !M!."
+  },
+  "thedreamer:Mingling": {
+    "NAME": "Mingling",
+    "DESCRIPTION": "Draw !M!. NL Recall !M!."
+  },
+  "thedreamer:Mirage": {
+    "NAME": "Mirage",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block per enemy."
+  },
+  "thedreamer:Narcolepsy": {
+    "NAME": "Narcolepsy",
+    "DESCRIPTION": "At the beginning of your turn, add 1 *Dream to your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the beginning of your turn, add 1 *Dream to your hand."
+  },
+  "thedreamer:Premonition": {
+    "NAME": "Premonition",
+    "DESCRIPTION": "Move the top card of your discard pile to your draw pile.",
+    "UPGRADE_DESCRIPTION": "Retain. NL Move the top card of your discard pile to your draw pile."
+  },
+  "thedreamer:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "thedreamer:Surrealism": {
+    "NAME": "Surrealism",
+    "DESCRIPTION": "Gain !M! thedreamer:Lucidity. NL thedreamer:Fleeting."
+  },
+  "thedreamer:Thought": {
+    "NAME": "Thought",
+    "DESCRIPTION": "Deal !D! damage. NL If this card is shuffled, exhaust it."
+  },
+  "thedreamer:ThroughTheMirror": {
+    "NAME": "Through The Mirror",
+    "DESCRIPTION": "If during a choice, thedreamer:Reality is available, choose it twice. NL Remove *Wonderland."
+  },
+  "thedreamer:Torment": {
+    "NAME": "Torment",
+    "DESCRIPTION": "thedreamer:Abstract. NL thedreamer:Awakening: Deal !D! damage to ALL enemies."
+  },
+  "thedreamer:WakeUpCall": {
+    "NAME": "Wake-Up Call",
+    "DESCRIPTION": "Gain !B! Block. NL Recall !M!. NL Does not activate thedreamer:Awakening effects."
+  },
+  "thedreamer:Wonderland": {
+    "NAME": "Wonderland",
+    "DESCRIPTION": "If during a choice, thedreamer:Fantasy is available, choose it twice. NL Remove *Through *The *Mirror."
+  }
+}

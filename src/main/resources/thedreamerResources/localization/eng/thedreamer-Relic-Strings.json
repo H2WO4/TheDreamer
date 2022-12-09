@@ -1,0 +1,16 @@
+{
+  "thedreamer:EmptyMind": {
+    "NAME": "Empty Mind",
+    "FLAVOR": "Much too limited.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add 1 #yDream to your hand."
+    ]
+  },
+  "thedreamer:FreeMind": {
+    "NAME": "Free Mind",
+    "FLAVOR": "Finally free of its chains.",
+    "DESCRIPTIONS": [
+      "Replace #yEmpty #yMind. At the start of your turn, add 2 #yDream to your hand."
+    ]
+  }
+}
